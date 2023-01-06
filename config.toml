@@ -33,6 +33,8 @@ mainSections = [ "articles" ]
   description = """
 
 A resources hub for students and teachers at English House ⸜(｡˃ ᵕ ˂ )⸝
+
+
 """
   imageUrl = "/images/profile.png"
   imageTitle = "cat"
