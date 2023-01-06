@@ -28,19 +28,19 @@ ShowCodeCopyButtons = true
 ShowToc = true
 mainSections = [ "articles" ]
 
-  [params.profileMode]
-  enabled = true
-  title = "What is this?"
-  description = "A resources hub for students and teachers at English House ⸜(｡˃ ᵕ ˂ )⸝"
-  imageUrl = "/images/profile.png"
-  imageTitle = "cat"
+[params.profileMode]
+enabled = true
+title = "What is this?"
+description = "A resources hub for students and teachers at English House ⸜(｡˃ ᵕ ˂ )⸝"
+ imageUrl = "/images/profile.png"
+ imageTitle = "cat"
 
-  [params.assets]
-  favicon = "/images/favicon.ico"
-  favicon16x16 = "/images/favicon-16x16.png"
-  favicon32x32 = "/images/favicon-32x32.png"
-  apple_touch_icon = "/images/apple-touch-icon.png"
-  safari_pinned_tab = "/images/apple-touch-icon.png"
+[params.assets]
+favicon = "/images/favicon.ico"
+favicon16x16 = "/images/favicon-16x16.png"
+favicon32x32 = "/images/favicon-32x32.png"
+apple_touch_icon = "/images/apple-touch-icon.png"
+safari_pinned_tab = "/images/apple-touch-icon.png"
 
 [minify]
 disableXML = true
