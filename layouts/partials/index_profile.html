@@ -7,7 +7,7 @@
         {{- end }}
         <h1>{{ .title | default $.Site.Title | markdownify }}</h1>
         <div class="profile-description">{{ .description | markdownify }}</div>
-        {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
+        <!-- {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
 
         {{- with .buttons }}
         <div class="buttons">
@@ -17,7 +17,7 @@
             </a>
             {{- end }}
         </div>
-        {{- end }}
+        {{- end }} -->
     </div>
     {{- end}}
 </div>
