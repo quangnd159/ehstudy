@@ -18,9 +18,9 @@ url = "about/"
 weight = 20
 
 [params]
-author = "⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆"
+# author = "⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆"
 defaultTheme = "auto"
-# ShowShareButtons = true
+ShowShareButtons = false
 ShowReadingTime = false
 displayFullLangName = false
 ShowBreadCrumbs = true
@@ -32,8 +32,8 @@ mainSections = [ "articles" ]
 enabled = true
 title = "What is this?"
 description = "A resources hub for students and teachers at English House ⸜(｡˃ ᵕ ˂ )⸝"
- imageUrl = "/images/profile.png"
- imageTitle = "cat"
+imageUrl = "/images/profile.png"
+imageTitle = "cat"
 
 [params.assets]
 favicon = "/images/favicon.ico"
