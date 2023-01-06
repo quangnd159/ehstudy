@@ -1,5 +1,5 @@
 title = "EH Study"
-baseURL = "https://ehcstudy.netlify.app"
+baseURL = "https://ehstudy.com"
 paginate = 5
 theme = "charlolamode"
 enableInlineShortcodes = true
