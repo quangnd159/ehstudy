@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EH Study</title>
+    <link>/</link>
+    <description>Recent content on EH Study</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>A brand new site. Not much going on yet, but essentially you should find supplementary materials such as model speaking responses for the speaking textbooks currently used at English House.</description>
+    </item>
+    
+    <item>
+      <title>Classes •⩊•</title>
+      <link>/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classes/</guid>
+      <description>Pre-Intermediate Speaking</description>
+    </item>
+    
+    <item>
+      <title>Lesson 2 - Elaboration Techniques</title>
+      <link>/pis2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pis2/</guid>
+      <description>Daily routine Please describe your typical daily routine.
+   My daily routine is pretty standard. I usually wake up early, get dressed, eat breakfast, and then head off to school. In the evenings, I&amp;rsquo;ll usually do some studying or hang out with friends. But sometimes I feel like I&amp;rsquo;m stuck in a rut with the same old routine, and it can get pretty tedious.
+ Do you like to plan what you will do each day?</description>
+    </item>
+    
+    <item>
+      <title>Math Braintrainer</title>
+      <link>/projects/math-brain-trainer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/math-brain-trainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-Intermediate Speaking</title>
+      <link>/pis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pis/</guid>
+      <description>Lesson 2 - Elaboration Techniques</description>
+    </item>
+    
+    <item>
+      <title>Surprise Surprise</title>
+      <link>/articles/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/article/</guid>
+      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)
+ </description>
+    </item>
+    
+  </channel>
+</rss>
