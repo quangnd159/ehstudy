@@ -1,4 +1,5 @@
 title = "EH Study"
+baseURL = "https://ehcstudy.netlify.app"
 paginate = 5
 theme = "charlolamode"
 enableInlineShortcodes = true
@@ -30,26 +31,9 @@ mainSections = [ "articles" ]
   [params.profileMode]
   enabled = true
   title = "What is this?"
-  description = """
-
-A resources hub for students and teachers at English House ⸜(｡˃ ᵕ ˂ )⸝
-
-
-"""
+  description = "A resources hub for students and teachers at English House ⸜(｡˃ ᵕ ˂ )⸝"
   imageUrl = "/images/profile.png"
   imageTitle = "cat"
-
-  # [[params.socialIcons]]
-  # name = "buymeacoffee"
-  # url = "https://ko-fi.com/heycharlola"
-
-  # [[params.socialIcons]]
-  # name = "github"
-  # url = "https://github.com/charlola"
-
-  # [[params.socialIcons]]
-  # name = "linkedin"
-  # url = "https://www.linkedin.com/in/heycharlola/"
 
   [params.assets]
   favicon = "/images/favicon.ico"
